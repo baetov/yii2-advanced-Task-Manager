@@ -1,0 +1,13 @@
+GET http://y2aa-frontend.test/api/users
+Accept: application/json
+
+###
+GET http://y2aa-frontend.test/api/tasks
+Accept: application/json
+
+###
+
+GET http://y2aa-frontend.test/api/projects
+Accept: application/json
+
+###

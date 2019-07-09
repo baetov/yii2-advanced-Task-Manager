@@ -1,0 +1,14 @@
+#messageField{
+    display: grid;
+    width: 600px;
+    height: 300px;
+    margin-left: 215px;
+
+}
+#sendMessage{
+    margin-top: 10px;
+}
+#sendButton{
+    margin-top: 10px;
+
+}
